@@ -13,5 +13,18 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.7"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caconeves/petshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caconeves/petshop/issues"
+  },
+  "homepage": "https://github.com/caconeves/petshop#readme",
+  "description": ""
 }

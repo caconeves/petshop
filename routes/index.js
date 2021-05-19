@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const petsController = require('../controllers/petsController');
+const institucionalController = require('../controllers/institucionalController');
 
 //rotas para paginas institucionais
 router.get('/', institucionalController.index);
